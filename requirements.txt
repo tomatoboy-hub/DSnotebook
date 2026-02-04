@@ -1,0 +1,9 @@
+tqdm
+pandas
+numpy
+matplotlib
+japanize-matplotlib
+seaborn
+scikit-learn
+lightgbm
+torch
